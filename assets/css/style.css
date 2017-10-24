@@ -1,0 +1,101 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Crimson+Text');
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+@import url('https://fonts.googleapis.com/css?family=Kaushan+Script');
+
+/* Login*/
+
+.header {
+    font-family: 'Crimson Text', serif;
+    text-align: center;
+    font-size: 40pt;
+    margin-top: 100px;
+}
+
+.form-control {
+    font-family: 'Crimson Text', serif;
+    width: 300px;
+}
+
+.btn-primary {
+    width: 300px;
+}
+
+.btn-danger {
+    margin-left: 130px;
+}
+
+#usr {
+    margin-left: 350px;
+    margin-top: 15px;
+}
+
+#pwd {
+    margin-left: 350px;
+}
+
+.plus {
+    display: inline;
+    margin-top: 150px;
+    margin-left: -60px;
+}
+
+.side {
+    color: blue;
+}
+
+.side2 {
+    color: blue;
+    margin-left: 150px;
+}
+
+.img-circle {
+    margin-left: 240px;
+    margin-top: 20px;
+}
+
+
+/* End Login*/
+
+
+/* Cadastro*/
+
+.jumbotron {
+    margin-top: -70pt;
+    background-color: #000080;
+    color: #fff;
+    text-align: left;
+    height: 100px;
+    width: 100%;
+}
+
+.listItem {
+    font-size: 18pt;
+}
+
+.campo1 {
+    display: inline
+}
+
+.header_cad {
+    font-family: 'Crimson Text', serif;
+    margin-top: -20px;
+}
+
+#cad {
+    margin-top: -100px;
+}
+
+.title {
+    margin-left: 40px;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 30pt;
+    color: #353531;
+}
+
+.sub_title {
+    font-family: 'Dancing Script', cursive;
+    margin-left: 120px;
+    margin-top: -40px;
+    font-size: 60pt;
+    color: #e54c00;
+}

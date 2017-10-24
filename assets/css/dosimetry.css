@@ -1,0 +1,20 @@
+.dosimetry-header {
+    background-color: #F08700;
+    box-shadow: 0 0 4px rgba(0,0,0,.14), 0 4px 8px rgba(0,0,0,.28);
+    position: static;
+    top: 0;
+    width: 100%;
+    z-index: 10005;
+    margin-bottom: 20px;
+}
+
+.headerText {
+    display: flex;
+    padding: 24px 25px 8px;
+    height: 96px;
+}
+
+.headerText p {
+    margin-left: 200pt;
+    color: white;
+}
